@@ -1,0 +1,10 @@
+{
+  "password": "To be pass CI/CD",
+  "email": "To be pass CI/CD",
+  "city":"New York",
+  "latitude": "40.712776",
+  "longitude": "-74.005974",
+  "invalidCity": "kjahdasdhj",
+  "invalidlatitude": "null.null",
+  "invalidlongitude": "null.null"
+}
